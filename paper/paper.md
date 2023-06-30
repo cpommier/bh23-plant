@@ -1,11 +1,11 @@
 ---
-title: 'BioHackJP 2023 Report R1: linked data standardization with LLMs'
+title: 'BioHackJP 2023 Report R3: linked data standardization with LLMs'
 title_short: 'BioHackJP 2023 LD-LLM'
 tags:
   - Linked Data
   - Large Language Models
 authors:
-  - name: First Author
+  - name: Test Author
     orcid: 0000-0000-0000-0000
     affiliation: 1
   - name: Last Author

@@ -1,33 +1,40 @@
 ---
-title: 'BioHackJP 2023 Report R3: Standardizing plant data for findability and integration'
-title_short: 'BioHackJP 2023 plant'
+title: 'BioHackJP 2023 Report R3: linked data standardization with LLMs'
+title_short: 'BioHackJP 2023 Plants'
 tags:
   - Linked Data
   - Large Language Models
 authors:
-  - name: First Author
-    orcid: 0000-0000-0000-0000
-    affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
-    affiliation: 2
+  - name: Cyril Pommier
+    orcid: 0000-0002-9040-8733
+    affiliation: 1, 2
+  - name: Hiromi Kajiya-Kanegae
+    orcid: 0000-0002-5719-7559
+    affiliation: 3
+  - name: Andrea Ghelfi
+    orcid: 0000-0001-9617-3309
+    affiliation: 4
 affiliations:
-  - name: First Affiliation
+  - name: Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France.
     index: 1
-  - name: Second Affiliation
+  - name: Université Paris-Saclay, INRAE, BioinfOmics, Plant bioinformatics facility, 78026, Versailles, France.
     index: 2
+  - name: Research Center for Agricultural Information Technology (NARO)
+    index: 3
+  - name: National Institute of Genetics (NIG), Shizuoka, 411-8540, Japan.
+    index: 4
 date: 30 June 2023
 cito-bibliography: paper.bib
 event: BH23JP
 biohackathon_name: "BioHackathon Japan 2023"
 biohackathon_url:   "https://2023.biohackathon.org/"
 biohackathon_location: "Kagawa, Japan, 2023"
-group: R1
+group: R3
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackathon-jp/bh23-report-template
+git_url: https://github.com/biohackathon-japan/bh23-plant
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Ghelfi A., Kajiya-Kanegae H, Pommier C.
 ---
 
 # Background

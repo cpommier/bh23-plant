@@ -1,6 +1,6 @@
 ---
-title: 'BioHackJP 2023 Report R3: Standardizing plant data for findability and integration'
-title_short: 'BioHackJP 2023 plant'
+title: 'BioHackJP 2023 Report R3: linked data standardization with LLMs'
+title_short: 'BioHackJP 2023 Plants'
 tags:
   - Linked Data
   - Large Language Models
